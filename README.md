@@ -1,0 +1,2 @@
+# AndroidWearTutorialForChinese
+AndroidWearTutorialForChinese By JialeDai
