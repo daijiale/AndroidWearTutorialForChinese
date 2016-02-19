@@ -5,14 +5,6 @@
 
 ## [Jiale Dai](https://github.com/daijiale) ##
 
-成都  电子科技大学  本科生
-
-从14年开始一直专研于AndroidWear开发。
-
-
->**摘要：** 本文是在学习Google官方视频、开发者文档和实践项目之后整理出来的心得笔记，是以一个个人开发者的角度给大家带来一些侧面对Android Wear开发的看法，不同于一些传统的Android Wear技术开发教程，但是博主希望能通过自己对这些知识的整理和资源的收集，给读者带了一份详尽的、多角度的Android Wear指南。**无论你是程序员，设计师，产品经理，还是手表极客 ，Android Wear用户 or 小白，都能在这篇博文中找到你想要的Android Wear元素。**
-> 博文会同时托管到Github上，欢迎更多承载着开源精神的有心人加入，分享你对Android Wear的见解。
-
 #写在开头#
 > **自己对AndroidWear的看法：**
 > 
