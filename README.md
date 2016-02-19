@@ -1,10 +1,3 @@
-
-#本文作者#
-
-![](http://7xi6qz.com1.z0.glb.clouddn.com/djlblogpicslrme.jpg)
-
-## [Jiale Dai](https://github.com/daijiale) ##
-
 #写在开头#
 > **自己对AndroidWear的看法：**
 > 
