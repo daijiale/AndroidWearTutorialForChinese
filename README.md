@@ -810,7 +810,7 @@ public void onCreate(Bundle savedInstanceState){
   - [Introduction to Android Wear: The Basics](http://code.tutsplus.com/articles/introduction-to-android-wear-the-basics--cms-22042)
   - [Enhanced and Wearable-Ready Notifications on Android](http://code.tutsplus.com/tutorials/enhanced-and-wearable-ready-notifications-on-android--cms-21868)
   - [Ask AndroidStudio Wear问答社区](http://ask.android-studio.org/?/explore/category-wear)
- 
+  - [Android Wear 智能手表应用开发设计规范-中文版教程](http://wear.android-studio.org/index.php/study/109-androidwear-guide)
  - 设计类 
   - [Google 官方Android Wear设计教程（需要翻墙）](http://developer.android.com/design/wear/index.html) 
   - [Google 官方Android Wear表盘（WatchFace）设计教程（需要翻墙）](http://developer.android.com/design/wear/watchfaces.html)
